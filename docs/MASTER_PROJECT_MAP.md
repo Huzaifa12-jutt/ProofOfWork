@@ -26,7 +26,7 @@ ProofOfWork/
 |   `-- ai-service/    FastAPI AI service (added in Week 10)
 |-- packages/
 |   |-- database/      Prisma schema, migrations
-|   `-- shared-types/  Shared TypeScript types & DTOs
+|   `-- api-client/    generated API client and types
 |-- docs/              Documentation, ERD, architecture diagrams
 |-- infra/             Local services configuration
 ```

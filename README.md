@@ -39,7 +39,7 @@ ProofOfWork/
 │   └── ai-service/        # Python FastAPI service (Week 10)
 ├── packages/
 │   ├── database/          # Prisma schema, migrations, seeders
-│   └── shared-types/      # Shared TypeScript types, enums & contracts
+│   └── api-client/        # Generated API client and types
 ├── docs/                  # Architecture diagrams, ERD, and master maps
 ├── infra/                 # Local services configuration
 ├── .editorconfig          # Code style rules
